@@ -1,0 +1,20 @@
+{
+    "name": "qompoter/http-parser-wrapper",
+    "description": "Qompoter wrapper for nodejs/http-parser ",
+    "license": "MIT",
+    "keywords": [
+        "HTTP",
+        "Parser",
+        "Qompoter"
+    ],
+    "authors": [
+        {
+            "name": "Olivier Maridat",
+            "email": "olivier.maridat@trialog.com",
+            "company": "Trialog"
+        }
+    ],
+    "require": {
+        "nodejs/http-parser": "v2.7.*"
+    }
+}
